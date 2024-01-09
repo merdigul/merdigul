@@ -14,7 +14,10 @@
 
 <h4 align="left">👀 You can find me:</h4>
 
-###
+* [My website: merdigul](https://merdigul.github.io/)
+* [Twitter as @muraterdigul](https://twitter.com/muraterdigul)
+* [Github as @merdigul (you are here)](https://github.com/merdigul)
+* [Linkedin](https://www.linkedin.com/in/merdigul/)
 
 <h3 align="left">🛠 Language and tools</h3>
 
