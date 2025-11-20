@@ -4,11 +4,11 @@
 
 ###
 
-<h4 align="left">👩‍💻  About Me <br><br>I am Computer Engineer with 2+ experience, mostly focus on DevOps<br><br>I currently live in Istanbul, Turkey. 🇹🇷.</h4>
+<h4 align="left">👩‍💻  About Me <br><br>I am Computer Engineer with 4+ experience, mostly focus on DevOps<br><br>I currently live in Istanbul, Turkey. 🇹🇷.</h4>
 
 ###
 
-<p align="left">- 🔭 I’m working as ServiceDesk Operation Specialist<br>- 📚 I'm currently learning DevOps Culture<br>- ⚡ In my free time I create bugs</p>
+<p align="left">- 🔭 I’m working as Service Reliability Engineer<br>- 📚 I'm currently learning DevOps Culture<br>- ⚡ In my free time I create bugs</p>
 
 ###
 
